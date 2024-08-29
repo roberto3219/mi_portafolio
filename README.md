@@ -16,7 +16,7 @@ Proyectos Destacados:
         https://github.com/Naim-Apaza/Grupo_1_Proyecto
 
         El proyecto que se hizo fue para poner en practica todo lo aprendido en el curso de digital house.
-          se hizo una pagina web utilizando todas las tecnologias:
+          se hizo una pagina web utilizando todas las tecnologias aprendidas del curos:
             Tecnologias:
               Html
               css
