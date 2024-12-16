@@ -1,0 +1,6 @@
+[submodule "Grupo_1_Proyecto"]
+	path = Grupo_1_Proyecto
+	url = https://github.com/Naim-Apaza/Grupo_1_Proyecto.git
+[submodule "proyecto-taller"]
+	path = proyecto-taller
+	url = https://github.com/roberto3219/proyecto-taller.git
