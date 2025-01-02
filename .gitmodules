@@ -10,3 +10,6 @@
 [submodule "Mercado-Liebre"]
 	path = Mercado-Liebre
 	url = https://github.com/roberto3219/Mercado-Liebre.git
+[submodule "proyecto-taller"]
+	path = proyecto-taller
+	url = https://github.com/roberto3219/proyecto-taller.git
