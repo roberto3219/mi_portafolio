@@ -4,3 +4,12 @@
 [submodule "proyecto-taller"]
 	path = proyecto-taller
 	url = https://github.com/roberto3219/proyecto-taller.git
+[submodule "jujuy_puna"]
+	path = jujuy_puna
+	url = https://github.com/roberto3219/jujuy_puna.git
+[submodule "Dise-o-de-Logos"]
+	path = Dise-o-de-Logos
+	url = https://github.com/roberto3219/Dise-o-de-Logos.git
+[submodule "Mercado-Liebre"]
+	path = Mercado-Liebre
+	url = https://github.com/roberto3219/Mercado-Liebre.git
