@@ -3,7 +3,7 @@
 
 Mis proyectos estan en la branch "master"
 
-¡Hola! Soy un desarrollador web full-stack apasionado con experiencia en tecnologías clave como HTML, CSS, JavaScript, Node.js, React.js, EJS, Express, MySQL, Sequelize, APIs, JSON, MVC, Bootstrap y Postman. Con habilidades en la creación de aplicaciones web tanto en el frontend como en el backend, estoy preparado para enfrentar desafíos y contribuir a proyectos innovadores.
+¡Hola! Soy un desarrollador web full-stack apasionado con experiencia en tecnologías clave como HTML, CSS, JavaScript, Node.js, React.js, EJS, Express, MySQL, Sequelize, APIs, JSON, MVC, Bootstrap y Postman(tambien utilizo Responsively app para hacer la responsabilidad de la pagina). Con habilidades en la creación de aplicaciones web tanto en el frontend como en el backend, estoy preparado para enfrentar desafíos y contribuir a proyectos innovadores.
 
 Mi objetivo es encontrar una oportunidad profesional donde pueda aplicar mis conocimientos, aprender y crecer dentro de un equipo dinámico. Estoy especialmente interesado en roles que me permitan trabajar en proyectos completos y colaborar en la creación de soluciones web efectivas.
 
@@ -19,6 +19,8 @@ Proyectos Destacados:
 
         El proyecto que se hizo fue para poner en practica todo lo aprendido en el curso de digital house.
           se hizo una pagina web utilizando todas las tecnologias aprendidas del curos:
+            Programa:
+            Responsively App
             Tecnologias:
               Html
               css
